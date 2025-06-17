@@ -8,7 +8,7 @@ spec:
   
   # 소스: Git 저장소 정보
   source:
-    repoURL: https://github.com/solarhc/k8s-app-config.git
+    repoURL: https://github.com/soobin70/k8s-app-config.git
     targetRevision: HEAD  # 브랜치/태그/커밋 해시
     path: api-gateway/prd
       
